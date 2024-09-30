@@ -1,2 +1,3 @@
-require "app/index.php";
-require "resources/views/index.blade.php";
+<?php
+require "app/index.php";    
+require "resources/view/index.blade.php";
